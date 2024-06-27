@@ -4,7 +4,7 @@
 I'm deeply intrigued by the endless possibilities of Software Development. Whether it's building intuitive user interfaces or solving complex backend problems, I find joy in every line of code.
 
 🌱 **Currently Learning**:
-I'm on an exciting journey at Moringa School, diving deep into the world of Software Engineering. Here, I'm honing my skills in HTML, CSS, JavaScript, React, JSON, Python, and Flask, and constantly exploring new technologies and methodologies.
+I'm on an exciting journey at Moringa School, diving deep into the world of Software Engineering. Here, I'm honing my skills in HTML, CSS, JavaScript, React, JSON, Python, Django and Flask, and constantly exploring new technologies and methodologies.
 
 💞️ **Looking to Collaborate On**:
 I thrive in collaborative environments and am eager to work on innovative software development projects. If you have an exciting idea or a challenging problem, let's join forces and create something amazing together!
@@ -30,7 +30,7 @@ As a budding software engineer, my mission is to create impactful and efficient 
 ## Skills
 
 - **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: Python, Flask
+- **Back-End**: Django, Flask
 - **Tools & Technologies**: JSON, Git, GitHub
 
 ## Projects
