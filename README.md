@@ -35,7 +35,7 @@ As a budding software engineer, my mission is to create impactful and efficient 
 
 ## Projects
 
-**Portfolio Website**: A fully responsive website that displays my projects, skills, and contact information.
+**Portfolio Website**: A fully responsive website that displays my projects, skills, and contact information. Check it out [here](https://faith-k-commits.github.io/Faith-K-commits.portfolio/)
 
 ---
 
