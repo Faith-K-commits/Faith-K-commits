@@ -35,7 +35,7 @@ As a budding software engineer, my mission is to create impactful and efficient 
 
 ## Projects
 
-I’m currently building my portfolio, which will showcase a range of projects from sleek web applications to robust back-end systems. Stay tuned!
+**Portfolio Website**: A fully responsive website that displays my projects, skills, and contact information.
 
 ---
 
