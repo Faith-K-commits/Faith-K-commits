@@ -12,7 +12,7 @@ I thrive in collaborative environments and am eager to work on innovative softwa
 📫 **Connect with Me**:
 I'm always open to making new connections and discussing potential collaborations. Feel free to reach out to me through:
 - **Email**: [fkariuki311@gmail.com](mailto:fkariuki311@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/faith-kariuki-3b0556210/](https://www.linkedin.com/in/faith-kariuki-3b0556210/)
+- **LinkedIn**: [https://www.linkedin.com/in/faith-kariuki-3b0556210/](https://www.linkedin.com/in/faith-kariuki-dev/)
 - **Twitter**: [@fay_codes](https://x.com/fay_codes)
 
 😄 **Pronouns**: 
