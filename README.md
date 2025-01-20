@@ -1,42 +1,108 @@
-<h1 align="center">Hi 👋, I'm Faith Kariuki</h1>
-<h3 align="center">A passionate Software developer from Kenya</h3>
+# Hi there, I'm Faith 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faith-k-commits" alt="faith-k-commits" /></a> </p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Faith-K-commits&show_icons=true&theme=radical)
 
-<p align="left"> <a href="https://twitter.com/fay_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fay_codes?logo=twitter&style=for-the-badge" alt="fay_codes" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on [Farmmart](https://farmmart-khaki.vercel.app/)
+I'm a passionate software developer with a love for creating and contributing to open-source projects. I enjoy exploring new technologies and continuously improving my skills.
 
-- 🌱 I’m currently learning **Node.js, Express JS, PHP**
+- 🌱 I’m currently learning **Node.js**
+- 👯 I’m looking to collaborate on **open-source projects, SaaS applications, and Fintech solutions**
+- 🤔 I’m looking for help with **scaling applications and backend optimization in Node.js**
+- 💬 Ask me about **t React, Django, Flask MySQL, and building full-stack applications**
+- 📫 How to reach me: **[x](https://x.com/fay_codes)**
+- ⚡ Fun fact: **I started my tech journey in computer science but expanded into business automation and virtual assistance!**
 
-- 👯 I’m looking to collaborate on [Farmmart](https://farmmart-khaki.vercel.app/)
+## My Skills
 
-- 🤝 I’m looking for help with [Farmart](https://farmmart-khaki.vercel.app/)
+- **Languages**: JavaScript, Python, SQL
+- **Frameworks**: TailwindCSS, React, Django, Flask, Node.js
+- **Tools**: Vite, MySQL, Git, Postman, Docker
 
-- 👨‍💻 My projects are available at [https://faith-k-commits.github.io/Faith-K-commits.portfolio/](https://faith-k-commits.github.io/Faith-K-commits.portfolio/)
+## Projects
 
-- 📝 I regularly write articles on [https://medium.com/@techtinkerbell](https://medium.com/@techtinkerbell)
+Here are some of the projects I've worked on:
 
-- 💬 Ask me about **React, Django, Flask**
+### [🛠 Django API for User Authentication & Organization Management](https://github.com/Faith-K-commits/authenticationAPI)
+A powerful Django-based API for managing users and organizations with secure JWT authentication. 🚀
 
-- 📫 How to reach me **fkariuki311@gmail.com**
+#### ✨ Features
+✅ User registration & login with JWT Authentication 🔑 <br>
+✅ Fetch user records & organizations 📜 <br>
+✅ Create & manage organizations 🏢 <br>
+✅ Add users to organizations 👥 <br>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1shHEot90k5agQF7EmYidMygUmnyAHYpK2_9_HhLVLMc/edit?usp=sharing](https://docs.google.com/document/d/1shHEot90k5agQF7EmYidMygUmnyAHYpK2_9_HhLVLMc/edit?usp=sharing)
+#### 🛠 Tech Stack
+- Backend: Django, Django REST Framework
+- Authentication: JWT (JSON Web Token)
 
-- ⚡ Fun fact **I have a knack for solving puzzles and often approach coding challenges with the same enthusiasm. When I'm not coding, you'll find me exploring new tech trends or enjoying a good book.**
+### [📝Articles API - Manage & Discover Programming Tips](https://github.com/Faith-K-commits/articles-api)
+This is a Django-based RESTful API that enables users to create, read, update, and delete (CRUD) programming articles effortlessly. 🔥
+With advanced filtering options, developers can quickly find useful programming tips based on language, keywords, and tags.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fay_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fay_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faith-kariuki-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faith-kariuki-dev/" height="30" width="40" /></a>
-<a href="https://medium.com/@techtinkerbell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@techtinkerbell" height="30" width="40" /></a>
-</p>
+#### ✨ Features
+✅ CRUD Operations – Create, retrieve, update, and delete articles 📝 <br>
+✅ Advanced Filtering – Search by programming language, keywords, and tags 🔍 <br>
+✅ Data Validation – Ensures data integrity with strict validation checks 🔐 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### 🛠 Tech Stack
+- Backend: Django, Django REST Framework
+- Database: PostgreSQL / SQLite
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faith-k-commits&show_icons=true&locale=en&layout=compact" alt="faith-k-commits" /></p>
+### [📚 Book Nest – A Simple React Library Manager](https://book-nest-beta.vercel.app/)
+🚀 Book Nest is a React-based application designed to help users manage a book library effortlessly. Users can add, edit, delete, and filter books by title, author, or category.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faith-k-commits&show_icons=true&locale=en" alt="faith-k-commits" /></p>
+#### ✨ Features
+✅ View a list of books 📖 <br>
+✅ Add a new book ➕ <br>
+✅ Edit book details ✏️ <br>
+✅ Delete a book ❌ <br>
+✅ Filter books by title, author, or category 🔍 <br>
+✅ Responsive Design – Works seamlessly on all devices 📱💻
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faith-k-commits&" alt="faith-k-commits" /></p>
+#### 🛠 Tech Stack
+- React ⚛️
+- React Router DOM 🔀
+- JSON Server (Mock Database) 🗄️
+
+### [✍️ InkSpace – A Modern Blogging Platform](https://inkspacefrontend.onrender.com/)
+🚀 InkSpace is a feature-rich blogging platform that empowers writers to create, manage, and share their stories effortlessly. Built with Flask, React, and TailwindCSS, it delivers high performance, great user experience, and community engagement.
+
+#### ✨ Features
+##### ✏️ For Writers <br>
+✅ User-Friendly Interface – Easy to navigate and write effortlessly ✨ <br>
+✅ Full CRUD Operations – Create, Read, Update, and Delete posts 📝 <br>
+✅ Custom Categories – Organize posts with personalized categories 📂 <br>
+
+##### 📖 For Readers <br>
+✅ Distraction-Free Reading – Enjoy a seamless reading experience 📚 <br>
+✅ Comment System – Share your thoughts and interact with posts 💬 <br>
+
+#### 🛠 Tech Stack
+- Backend: Flask 🐍
+- Frontend: React ⚛️
+- Styling: TailwindCSS 🎨
+
+### [🍽️ RecipeQuest – Find Recipes with Your Ingredients!](https://recipequest.netlify.app/)
+🚀 RecipeQuest is a simple yet powerful one-page web app that helps users discover recipes based on the ingredients they have at home. It dynamically fetches recipes using the Spoonacular API and presents them in an intuitive interface.
+
+#### ✨ Features
+✅ Ingredient Search – Enter ingredients (separated by commas) and find matching recipes 🥕🍗🥦 <br>
+✅ Dynamic Recipe Display – Fetches and updates recipes instantly ⚡ <br>
+✅ Recipe Cards – Each recipe is displayed with an image, title, and brief description 🍽️ <br>
+✅ View Instructions – Click a button to get detailed step-by-step instructions 📝 <br>
+✅ Responsive Design – Works seamlessly on all devices 📱💻
+
+#### 🛠 Tech Stack
+- HTML 🏗️
+- CSS 🎨
+- JavaScript (Vanilla JS) ⚡
+- Spoonacular API 🍲
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/faith-kariuki-dev/)
+- [Twitter](https://x.com/fay_codes)
+- [Personal Website](https://faith-k-commits.github.io/Faith-K-commits.portfolio/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-K-commits&layout=compact&theme=radical)
